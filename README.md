@@ -37,10 +37,13 @@ Below are a few screenshots of the web app.
 
 A data cleaning pipeline in a Python script, process_data.py, that:
 
-⋅⋅* Loads the messages and categories datasets
-⋅⋅* Merges the two datasets
-⋅⋅* Cleans the data
-⋅⋅* Stores it in a SQLite database
+* Loads the messages and categories datasets
+
+* Merges the two datasets
+
+* Cleans the data
+
+* Stores it in a SQLite database
 
 ```
 - data
@@ -54,12 +57,16 @@ A data cleaning pipeline in a Python script, process_data.py, that:
 
 A machine learning pipeline in a Python script, train_classifier.py, that:
 
-⋅⋅* Loads data from the SQLite database
-⋅⋅* Splits the dataset into training and test sets
-⋅⋅* Builds a text processing and machine learning pipeline
-⋅⋅* Trains and tunes a model using GridSearchCV
-⋅⋅* Outputs results on the test set
-⋅⋅* Exports the final model as a pickle file
+* Loads data from the SQLite database
+
+* Splits the dataset into training and test sets
+
+* Builds a text processing and machine learning pipeline
+
+* Trains and tunes a model using GridSearchCV
+
+* Outputs results on the test set
+* Exports the final model as a pickle file
 
 ```
 - models
