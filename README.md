@@ -3,7 +3,7 @@ This project is a part of the [Udacity Data Science Nanodegree](https://www.udac
 ## Motivation behind the project
 
 > This is one of the most important problems that we're trying to solve in Data Science and Machine Learning right now.
-> So following a disaster, typically you will get millions and millions of communications either direct or via social media right at the > time when disaster response organizations have the least capacity to filter and then pull out the messages which are the most 
+> So following a disaster, typically you will get millions and millions of communications either direct or via social media right at the time when disaster response organizations have the least capacity to filter and then pull out the messages which are the most 
 > important.
 > 
 > Often it really is only one in every thousand messages that might be relevant to the disaster response professionals.
@@ -12,7 +12,7 @@ This project is a part of the [Udacity Data Science Nanodegree](https://www.udac
 > So one organization will care about water, another will care about blocked roads, another will care about medical supplies.
 > So, when you look at the data, you'll see that these are the categories that we have pulled out for each of these datasets.
 > So, we actually used Figure Eight for many of the disasters from which these messages are taken then combined these datasets and 
-> relabeled them so that they're consistent labels across the different disasters, and this is to investigate the different trends that > we might be able to find and to build supervised Machine Learning models.
+> relabeled them so that they're consistent labels across the different disasters, and this is to investigate the different trends that we might be able to find and to build supervised Machine Learning models.
 > 
 > Machine Learning models that can help us respond to future disasters. One of my favorite parts about this project is how meaningful 
 > the work is.
