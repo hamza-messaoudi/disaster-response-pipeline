@@ -26,9 +26,9 @@ A tidy example of a disaster response pipeline. Using a data set of real tweets,
 Below are a few screenshots of the web app.
 
 
-![alt text](https://github.com/hamza-messaoudi/disaster-response-pipeline/screenshots/disaster-response-project1.png "Dataset")
+![alt text](https://github.com/hamza-messaoudi/disaster-response-pipeline/blob/master/screenshots/disaster-response-project1.png "Dataset")
 
-![alt text](https://github.com/hamza-messaoudi/disaster-response-pipeline/screenshots/disaster-response-project1.png "Classifier")
+![alt text](https://github.com/hamza-messaoudi/disaster-response-pipeline/blob/master/screenshots/disaster-response-project2.png "Classifier")
 
 ---
 ## Components and Functionality
