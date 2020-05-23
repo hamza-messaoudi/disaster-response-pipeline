@@ -1,5 +1,5 @@
 # disaster-response-pipeline
-
+This project is a part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025), the used dataset was provided by [Figure Eight](https://www.figure-eight.com/) (acquired by Appen Ltd.).
 ## Motivation behind the project
 
 > This is one of the most important problems that we're trying to solve in Data Science and Machine Learning right now.
@@ -106,5 +106,5 @@ You can run the app on your browser at [http://0.0.0.0:3001/](http://0.0.0.0:300
 ---
 ## Resources
 
-This project was a part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
+This project is a part of the [Udacity Data Science Nanodegree](https://www.udacity.com/course/data-scientist-nanodegree--nd025).
 The used dataset was provided by [Figure Eight](https://www.figure-eight.com/) (acquired by Appen Ltd.).
