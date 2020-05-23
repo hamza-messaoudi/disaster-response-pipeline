@@ -68,10 +68,8 @@ A machine learning pipeline in a Python script, train_classifier.py, that:
 ```
 ### 3. Flask Web App
 
-We are providing much of the flask web app for you, but feel free to add extra features depending on your knowledge of flask, html, css and javascript. For this part, you'll need to:
+Add data visualizations using Plotly in the web app
 
-Modify file paths for database and model as needed
-Add data visualizations using Plotly in the web app. One example is provided for you
 ```
 - app
 | - template
