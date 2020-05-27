@@ -73,18 +73,6 @@ A machine learning pipeline in a Python script, train_classifier.py, that:
 |- train_classifier.py
 |- classifier.pkl  # saved model 
 ```
-### 3. Flask Web App
-
-Add data visualizations using Plotly in the web app
-
-```
-- app
-| - template
-| |- master.html  # main page of web app
-| |- go.html  # classification result page of web app
-|- run.py  # Flask file that runs app
-
-```
 
 ---
 ## How to run this app
